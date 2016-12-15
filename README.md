@@ -1,2 +1,2 @@
 # 201617_2nB_ESO
-primer projecte
+primer projecteel meu primer proyecte
